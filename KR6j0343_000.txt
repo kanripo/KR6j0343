@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 最上大乘金剛大教寶王經
+#+DATE: 2015-08-30 20:30:35.732105
+#+PROPERTY: JUAN 0
