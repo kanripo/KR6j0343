@@ -1,20 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:35.533376
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:55
 #+TITLE: 最上大乘金剛大教寶王經
 #+PROPERTY: CBETA_ID T20n1128
 #+PROPERTY: ID KR6j0343
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1128
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0343_T_002-0545b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 最上大乘金剛大教寶王經卷下¶
+最上大乘金剛大教寶王經卷下¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳教大師臣法天奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚卿傳教大師臣法天奉　詔譯¶
 
 爾時世尊。復告印捺囉部帝大王言。大王¶
 汝於往昔過去無量阿僧祇大劫之前。日清¶
@@ -318,4 +316,4 @@
 嚕拏彥達嚩緊曩囉一切大眾。聞菩薩說是¶
 經已。歡喜信受作禮而退。金剛手菩薩即於¶
 山中隱沒不現。¶
-最上大乘金剛大教寶王經卷下
+最上大乘金剛大教寶王經卷下＋（二經同卷）【宋】下下
